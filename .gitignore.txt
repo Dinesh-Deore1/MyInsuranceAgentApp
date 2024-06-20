@@ -1,0 +1,15 @@
+# Ignore IDE-specific files
+.settings/
+.classpath
+
+# Ignore build output
+target/
+
+# Ignore Eclipse project file
+.project
+
+# Ignore any generated files not needed in the repository
+*.log
+*.iml
+*.ipr
+*.iws
